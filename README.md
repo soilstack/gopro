@@ -1,0 +1,2 @@
+# gopro
+ gopro file digester
